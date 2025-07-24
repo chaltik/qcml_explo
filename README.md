@@ -23,7 +23,7 @@ QCML is a novel distinct operational procedure for both supervised and unsupervi
 
 The primary purpose of this repository is to:
 
-* Implement QCML-based algorithms in PyTorch.
+* Implement QCML-based algorithms in PyTorch and Tensorflow
 * Apply them to both synthetic datasets (e.g., spheres, tori) and real-world data.
 * Evaluate how well QCML captures intrinsic data structures compared to classical methods.
 
